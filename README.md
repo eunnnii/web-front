@@ -14,4 +14,11 @@
 --------------------------------------------------------------------------------------------------------------------
 #### day1 참고 사이트
 
+[학습 reference]
 - w3schooll : https://www.w3schools.com/html/default.asp
+- html DOM : https://www.w3schools.com/whatis/whatis_htmldom.asp
+- css syntax : https://www.w3schools.com/css/css_syntax.asp
+- css selector : https://www.w3schools.com/css/css_selectors.asp
+
+[실습 figma]
+- https://www.figma.com/file/M08p07aisIh4R4RMbdjh3v/Untitled?node-id=1%3A3&t=phe5Ve5n6lWpiZPn-0
