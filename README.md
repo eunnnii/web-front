@@ -1,12 +1,11 @@
 # web-front
 
-## 웹 페이지를 만들어보자!
+## web engineering seminar
 
-### 2023.1.28
+### 2023.1.28 written by sangeun
 
-### written by sangeun
 
-###실습 일정
+### 실습 일정
 
 #### day1 - web front 개요
 #### day2 - web front-end clone coding ( 당근마켓 랜딩페이지 )
